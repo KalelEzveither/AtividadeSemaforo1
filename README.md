@@ -19,3 +19,5 @@ Este projeto implementa um semáforo utilizando a Raspberry Pi Pico W, baseado n
 ## Autor
 **Kalel Ezveither**
 
+## Vídeo de teste 
+https://drive.google.com/file/d/1dbzP9ndycJ9Z1qGEp8TByYcwjrUhOjqT/view?usp=drive_link
